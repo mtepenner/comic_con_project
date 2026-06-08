@@ -36,7 +36,7 @@ The Comic-Con Terminal Management System is a full-stack, cyber-themed desktop a
 ### Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/comic-con-project.git](https://github.com/yourusername/comic-con-project.git)
+   git clone https://github.com/mtepenner/comic_con_project.git
    cd comic-con-project
 
 ```
