@@ -36,7 +36,7 @@ The Comic-Con Terminal Management System is a full-stack, cyber-themed desktop a
 ### Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mtepenner/comic_con_project.git
+   git clone https://github.com/mtepenner/comic-con-project.git
    cd comic-con-project
 
    ```
@@ -68,7 +68,7 @@ Use the provided Makefile to compile the C++ backend and launch the Python GUI s
 ## 📂 Project Structure
 
 ```text
-comic_con_project/
+comic-con-project/
 ├── Makefile                # Build and run configurations
 ├── backend/                # C++ source code for data handling
 │   ├── Actor.h / .cpp      # Doubly Linked List implementation
